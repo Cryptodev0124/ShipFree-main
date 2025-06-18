@@ -61,6 +61,7 @@ export default function Navbar() {
           </Link>
           <Link
             href="https://shipfree.idee8.agency/docs"
+            target="_blank"
             className="text-base text-white/90 transition hover:text-white"
           >
             Docs
